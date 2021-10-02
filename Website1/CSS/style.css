@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#heading{
+    position: absolute;
+    color: black;
+    top: 200px;
+    left: 200px;
+    z-index: 3;
+}
+
+.fa {
+  border: solid thin gray;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  color: gray;
+}
